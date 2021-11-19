@@ -1,0 +1,15 @@
+This video mainly talks about the 3 questions>
+1.What is Git?
+2.Why do we learn Git?
+3.Where shall we begin?
+
+Git is very powerful version control system,Git helps us to manage
+our project files. 
+Git tracks changes of our code everytime someone makes a change to it,Git can tell
+us what changes are exactly made to our code when and what,if we want to reverse back to the
+previous version there will be no problem with Git.
+Git Merging helps us to merge edited branch to the master branch.
+Git Branching it helps us to divide tasks and do them apart from the
+master branch.
+
+
