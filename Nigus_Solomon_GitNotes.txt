@@ -1,0 +1,13 @@
+What is git?
+    Git is a popular version control system.
+
+We use Git to 
+    - Manage the history of our projects it helps us control the changes we made a long time ago and we would be able to use Git to know what we changed and when we changed it.
+    - Collaboration without Git is slow and also we won't be able to do any work without the other person finishing their work but using Git it always keeps us uptodate and also compares any changes made and helps us merge the files we created without any delay or hustle on any side.
+    - We can create branches to manage and make changes to features when we want without laging another feature.
+
+Why should we learn Git
+    - First of all it's industry standard and also it gives us perfect management for our code.
+
+Where do we begin to learn Git?
+    - We best learn Git in action.
