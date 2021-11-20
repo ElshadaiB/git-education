@@ -1,0 +1,8 @@
+Git is a version control system which helps us track and manage our project files. Git helps us in the aspect of
+history of our project file so any changes we made are reverseable. It also help us to collaborate with other developers 
+it can go through different copies find app changes and merge the file. It also help us develope features separately by 
+creating branches so that one part our code does hold hostage the other updates. when done we can merge it with the main 
+branch.
+
+Git is important because its widely used in the industry right now and its essential for us to know git to have an efficient
+workflow.
