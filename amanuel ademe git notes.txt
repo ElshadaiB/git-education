@@ -1,0 +1,7 @@
+Git:
+-it is a version control system.
+-it manage our project file example Css, html,Js, Image...
+-it help us to collaborate easily with others.
+-we can work on multiple features at once.
+-it will track what changes that we made like what we add/delete ...
+-We have to learn Git because it help us in many ways.
