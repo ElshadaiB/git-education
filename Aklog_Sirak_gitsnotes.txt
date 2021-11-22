@@ -1,0 +1,11 @@
+Summary of Nov 4
+Github
+Github is a web application allow us share & put out things in a central remote control in simple word it's 
+collaboration tool.it also tell us if we change our code even the line.There is also storing data as snapshot of 
+the project over time in different versions we change some file name in every version.There is also three main sections 
+of a git project . The working tree :- it is a folder that we code on it.
+                 . Staging area :- it is that we change something i have to stage.
+                 . Git directory(Repository) :- it is what is tracked by git.
+I also see some commits. We can see what we realse, add and the date.                 
+                   
+ 
