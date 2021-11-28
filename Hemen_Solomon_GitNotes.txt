@@ -1,0 +1,7 @@
+Things we learned on our session.
+- Git in general,which is a version control system which makes development in teams much more easier.
+- Github,an online management system for source codes and also a version control system that uses git.
+- Forking is when we get our own copy of all the files in a repository.
+- Cloning, getting a copy of the source code in our own directory.
+- How to create and contribute to a persons repo.
+- Pull requests to either add or edit code from a repo, you work on in in yor directory and put in a pull requests and if it gets approved depending on its requirements. the code will be appart of the repository.
