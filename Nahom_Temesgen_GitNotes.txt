@@ -1,0 +1,12 @@
+The video talks about what git is, why we should learn it and
+where we begin. Git is version control system that helps us manage
+our project's files. Git keeps track of our changes and git makes
+collaboration easy by going through the available copies of the
+project and finding all the changes and making things ready to
+merge, and furthermore it makes it easy to work on multiple
+feature all at once. Using git comes with many benefits as stated
+above, As a develper working with a team is a most common thing we
+see now days so stressing about how to manage the team's progress
+is the least thing you want to have on your plate, specially when
+it's a big team, That's when git comes in handy it really makes it
+easy and flexible while working with a team.
