@@ -1,0 +1,25 @@
+GIT and GitHub
+
+What is GIT?
+Git is a version control system that allows us to manage our files securely and efficiently.
+
+Why should we learn GIT?
+
+    The reason is straightforward and obvious. While using your browser at some point,  you will 
+need to see some of your history to back up the site. When working with teams or on your own 
+without Git, you must create a copy of the same file so that you can make changes and upload 
+it again. While repeating these steps, you'll need a lot of storage space. However, a few 
+documents were altered. At this point, you should use this Git tool to easily see your history, 
+update it, and commit new ones. The key reasons for utilizing the Git technology are history and 
+collaboration. One of the nicest and most popular features of Git is the ability to build feature 
+branches.
+
+What is the main purpose of creating feature branches?
+
+    When working in a group or on your own, members of the same group should not contribute their 
+code to the master or main branch without first asking or recognizing the other members. However, 
+it will be easier if everyone places their code in a feature branch so that there is a member or 
+team that examines the functionality of the new code and makes any necessary modifications. 
+When he and the team members are satisfied with the code, they can add it to the master.
+GitHub, like Git, will make all changes available to us. These two tools are necessary for both 
+team and individual work.
