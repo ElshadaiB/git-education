@@ -1,1 +1,3 @@
 Add your notes on Sep 9 session.  
+
+The lecture was interesting. Generally, the lecture introduce us with, what is git version control system, and we can use it to track our projects in a documented manner, to collaborate on the same project. Git is not the only version control system we have in the world. Even if all of them have the same use, but their implementation is different. You explained different terms related to Git and how it works. While git is an application that we can install on our computer, but we use GitHub to track the project using a user interface. We also see an actual work flow of git using example. How we can add, commit and push local changes to the remote and also how can fix merge conflicts.

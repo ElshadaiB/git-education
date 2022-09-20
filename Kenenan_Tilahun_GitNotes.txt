@@ -1,0 +1,14 @@
+The video explains about three question.
+    - What is git?
+    - Why should we learn git?
+    - Where do we begin?
+
+Here is the summary of the video.
+
+Git is one of the most popular version control system in the world. Version control means managing the files we use in projects. Git has three major importances. These are history, collaboration and feature branches. 
+    - History - we can track any changes we make on the project using git. Git tracks this changes using different commits we made when we change contents and files in the project. Even after months if we forget what we did in the past we can check all details using our commits from the git history of our project. In addition to that maintaining history also helps us to revert to the version we want if we made some big mistakes to the current state of the project.
+    - Collaboration - in these days' software engineers work on the same project from different parts of the world. This will be very difficult without version control systems. Git is very handy, we want to work as a team. For collaboration, every member of the team can work on their own branch on different branches and work on their branch and also gets any updates from other members. At the end when every one finishes they can merge their part together to create the output result.
+    - Feature branches - most real world projects have different features. For example, to make our e-learning website, one person can work on the dashboard while another person works on the authentication feature. So, we can create two different branches for these two features. So that it will be easier to track the progress of the project development.
+
+In these days, git becomes one of the basic important skills to have for any developer. Almost every developer somehow related to git. So, nowadays, it is a must to know git a developer. We can learn git from YouTube videos or using the official documentation.
+
