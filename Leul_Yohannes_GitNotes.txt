@@ -1,0 +1,23 @@
+What is git? 
+
+Git is a version control system 
+
+History: 
+
+Since we could have a lot of files for a project it could a bit hard to manage them git helps us manage our projects files 
+
+Git keeps tracks of every change we might have done. 
+
+Collaboration: 
+
+In git collaboration was made easy b/c you don't have to wait for your teams and you can work freely without have to wait and when it comes to merge everyone's changes git will take care of it. 
+
+Feature branches: 
+
+This lets us create branches for a specific feature which allows as to work on that without being dependent on other features. 
+
+Why should we learn git? 
+
+In the developer's world git is a very important method since we develop software’s with teams and not alone it is a mandatory. 
+
+ 
