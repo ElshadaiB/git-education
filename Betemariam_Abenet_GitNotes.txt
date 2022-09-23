@@ -1,0 +1,25 @@
+﻿What is GIT?
+        
+        Version Control System
+
+
+What does GIT do?
+
+
+        Manage our project 
+        Keep our projects upto date
+        Help us merge different stack of projects made by a group of team
+
+
+Why should we learn git?
+
+
+        Inorder to be much more productive
+        To be kept updated
+        To fasten Our Team Work
+
+
+Where do we start?
+
+
+        See different Courses.
