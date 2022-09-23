@@ -1,0 +1,8 @@
+Git is a popular version control system
+helps us manage our projects files
+
+It keeps track to changes we make 
+It makes collaboration more easy and allows you to be more productive when working n a team
+Helps us to work on multiple features at once 
+
+In the developer world it is assumed that you know git.
