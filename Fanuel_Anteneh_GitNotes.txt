@@ -1,0 +1,5 @@
+Git is a tool that we use to manage project files and keep track of the changes made in those files throughout its development. It allows for non-destructive development meaning it enables us to work on a project without running the risk of loosing the work we have done so far. 
+
+Git is especially useful and helpful when working with a team. It helps members keep track of each other's progress and make changes without affecting or impeding the work of others. In other words, it allows for asynchronous development.
+
+The aforementioned asynchronous development feature also allows for incremental development which basically means that features can be implemented independently. This independent development method allows for regular delivery of product in an incremental and non-obtrusive manner.
