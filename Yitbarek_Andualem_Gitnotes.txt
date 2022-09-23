@@ -1,0 +1,14 @@
+git 
+
+  
+
+git is world renown version control system. We use git to manage our project file.
+ What we meant by managing project is keeping track of the changes we made. 
+ And mostly e use git when we are working with a team and git helps as a lot.
+ one of the features of git is merging and we use this to merge to works to one this means we don't need to wait on our friend to finish his task so that we can continue working on our work. The other advantage is the feature branch we use the features helps as to work on tasks differently this will decrease the dependency of the task on another task. so, as we stated on the above git is used mostly on team work so learning git in the developer world is just a must 
+
+     
+
+ 
+
+ 
