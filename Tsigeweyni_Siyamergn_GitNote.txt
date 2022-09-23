@@ -1,0 +1,8 @@
+git is a super popular VCS, it helps us manage our project's file.
+what does git do?
+1. history - git keeps track of every change made to out project.
+2. collaboration - git makes it simple to collaborate and it allows you to be more productive when working in teams. 
+3. Feature branches - we can hop between 2 part of our project. it traks the branches separately which makes it okay to finish one feature without neessarily finishing the other. when done we can merge them.
+
+ so why do we learn git?
+ it makes the code more attractive and gove it structure.
