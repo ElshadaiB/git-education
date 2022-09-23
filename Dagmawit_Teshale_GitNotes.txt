@@ -1,0 +1,11 @@
+what is git?
+Git is a well known version control sysytem.
+It helps us manage our project's files.
+It allows us to be more productive when working in a team.
+
+what does git do?
+
+Git keeps track of all the change we made to our project.
+It makes collaboration and team work easy.
+git helps developers be more productive.
+git helps us manage our branchs seperetly and lets us merg them when done. 
