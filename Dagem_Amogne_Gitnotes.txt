@@ -1,0 +1,1 @@
+Git is a version control software that helps us manage different versions of our software by taking snapshots of different stages of the software we are developing.
