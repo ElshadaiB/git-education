@@ -1,0 +1,3 @@
+Git is a version control system used for tracking changes in computer file. It is generally used for code management and it can handle
+small to large projects efficiently. Git tracks changes in the source code, enabling multiple developers to work together. One of the biggest
+advantages of git is it's branching capabilities. Feature branches provide an isolated environment for every change to your code.
