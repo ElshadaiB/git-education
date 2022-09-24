@@ -1,0 +1,6 @@
+In the vidio i learned about What git was and why it is important tool in software engeenering.
+
+-Git is a software which can be a version control system it helps us manage our project. It basiclly tracks changes thus creating
+many branchs on git we can have many version of our project we can go back to a latter version if we wanted to. Another use can be the team can
+work effectivily sice they dont have to be present to show the code they can comit it online then their team can review it. It helps collaborate our code
+Git is also the industry standard to work in many places enngeners in our time use git because it help them and if we don't know it we might fall back.
