@@ -1,0 +1,21 @@
+A version control system or VCS is a software
+tool which allows you to manage multiple 
+revisions of the same file, (source code files).
+Version control software helps keep track of 
+modifications made to the file over time. 
+Files are regularly pushed to repositories 
+online as the users continue to update the file.
+we  also learned number one what is GIT?, 
+number two why should we learn git?, and 
+number three where do we begin ? so we 
+so number 1 - GIT is the world's most popular 
+version control system it just helps us manage our 
+projects files (a project could be
+anything)GIT makes managing our files easier by using 
+its features like history so history just means that 
+get keeps track of every change we maketo our project 
+and the other is collaboration which tracking the changes 
+in comparing and merging is exactly what GIT does for us 
+which answer's questionnumber two and three which is where 
+we begin, we begin by understanding what is git and why we 
+should learn it does for us which we answered.
