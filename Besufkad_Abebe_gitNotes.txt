@@ -1,0 +1,1 @@
+Git is a version control system that is used to manage different versions of our software by letting us save on differerent stages on our working software.
