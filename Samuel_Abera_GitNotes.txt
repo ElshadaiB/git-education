@@ -1,0 +1,17 @@
+In this text I will try to summarize the video from the assignment. In order to do so I will answer what Git is and why we should learn git.  
+
+What is Git? 
+
+Git is a super popular version control management system. It helps us make changes freely. This will prevent our code from crashing.
+Git is useful because it saves our history. It acts as our backup and help as to freely make changes to our code.
+It is also useful because it allows several team members to collaborate together making it time efficient and productive.
+The other major use of git is allowing feature branching this help us make several branches for different part of the project.  
+
+Why should we learn git? 
+
+We should learn git because its industry standard. This means that everyone assumes you know git.
+A coder with no git background will lose potential jobs. 
+
+To conclude we can say that git is an essential and powerful tool for programmers. 
+
+ 

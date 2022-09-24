@@ -1,1 +1,6 @@
 Add your notes on Sep 9 session.  
+In this session we learned about git. The main points were what made git powerful. git is powerful because it allows history tarking, 
+team collaboration, branching and merging. we also learned about file tracking. Files created at the beginning are untracked and to track 
+this files we need to add them using the git add command which makes the file tracked and staged which will inturm makes the file suitable for commiting. The concept behind git commit is taking a snapshot of our project. In addition We also learned about pull request, forking , clonning and etc. 
+
+ 
