@@ -1,0 +1,4 @@
+In the video i learned about what is git?, why should we learn about it and where do we begin.
+and it is a super popular version control system which helps us manage our project file. And it does it
+by keeping truck of our history. It also helps us in collaboration with our team. Git has a feature branch 
+and tracks our tasks separately. so it helps us in making our work easier.
