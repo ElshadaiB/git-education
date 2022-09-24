@@ -1,0 +1,32 @@
+All I learned in this vedio is:-
+    What Git is?
+    Why should we learn Git?
+    Where do we begin?
+And also the 3 basic reasons to love Git.
+
+
+
+Git is a super popular version control management system designed to help us manage our project's files.
+
+
+What is Git?
+-Git helps us manage our files.
+-Basically tracks changes we made.
+-Makes it easy for us to work on multiple features.
+
+
+Why should we learn Git?
+-In developer world its assumed that you know Git.
+-we learn Git if you want to become more attractive to employers or you wanna fly so low but bring a bit of structure
+and organization to your code learning Git is truly a must.
+
+
+
+Where do we begin?
+-We have already begun to learn about Git and its reasons that makes us love Git.
+
+
+The reasons to love Git are:-
+    History=Git keeps tracks of every change we make to our project.
+    Collaboration=allowing us to be more productive when working in a team.
+    Feature Branches=we can hop back and forth on every branch we have created.Git tracks the branches separatelty one another.
