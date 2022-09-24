@@ -1,0 +1,4 @@
+From the video i noticed it raised 3 questions, What is git, Why should we learn it, where we begin.
+Git is a version control system that keeps track of our changes and makes collabration easy with other
+developers. It is very efficient and effective way of managing your project along side other developers,
+that's why learning git is becoming a mandatory thing in the world of software engineering.
