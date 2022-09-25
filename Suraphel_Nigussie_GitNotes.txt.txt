@@ -1,0 +1,12 @@
+-Git helps us to manage our project files. Git is worlds popular version Control System.
+Git keeps track of every change we made. The reason that git make us love it iS; 
+
+-one HISTROY:
+If we make a change in a code and the code have an eror and if we do not know when and where we made that change git will tell as when and where we make change in our code.
+
+-Two COLLABORATION:
+We can change and update and work file at the same time with our freind and know the place of changes we made on our project and make our colabration easy. 
+
+-Third and the most important is FEATURE BRANCHES:If there is a project we are doing we can create two or more branches to code or work on our poject and change or edit on those diffrrent branchs. This means we git can truck the two branches and if we want wee can merge the branches we create at any time.  
+
+*There is no reason not to learn git we can say almost all IT companis use git to give working speace to all the workers in that compony.  
